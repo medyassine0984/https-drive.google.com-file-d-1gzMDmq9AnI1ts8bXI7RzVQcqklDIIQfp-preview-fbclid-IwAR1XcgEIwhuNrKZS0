@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Microsoft Support - Unified Communications Managed API v3.0 Software Development Kit</title>
+    <description>Microsoft Support</description>
+    <link>https://support.microsoft.com/app/content/api/content/feeds/sap/en-us/1f5ea7c8-16ef-a338-c3e3-fbcc4d243f02/rss</link>
+    <lastBuildDate>Mon, 26 Aug 2019 21:42:42 GMT</lastBuildDate>
+    <ttl>720</ttl>
+    <item>
+      <title>You receive an unhandled exception when you develop and then run a Lync Server 2010, UCMA 3.0-based application</title>
+      <description>Fixes an issue in which you receive an unhandled NullReferenceException exception when you run a Lync Server 2010, UCMA 3.0-based application. This issue occurs in a mixed Lync Server 2010 and Office Communications Server 2007 R2 environment.</description>
+      <link>https://support.microsoft.com/help/2703332</link>
+      <pubDate>Sun, 17 Jun 2012 03:53:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>A DTMF-based IVR application that is developed by using Lync Server 2010, UCMA 3.0 Workflow APIs crashes</title>
+      <description>Fixes an issue in which a DTMF-based IVR application crashes when a user barges-in multiple times with invalid DTMF digits or barges-in to request help. This issue occurs if the application is developed by using Lync Server 2010, UCMA 3.0 Workflow APIs.</description>
+      <link>https://support.microsoft.com/help/2568557</link>
+      <pubDate>Mon, 09 Apr 2012 16:39:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>The department field in the contact card of a user is empty when the card is retrieved by a UCMA 3.0-based application</title>
+      <description>Fixes an issue in which a contact card that is retrieved by a UCMA 3.0-based application has an empty department field.</description>
+      <link>https://support.microsoft.com/help/2666343</link>
+      <pubDate>Fri, 02 Mar 2012 07:10:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>You might unexpectedly receive IMs when the "Do Not Disturb" presence status is set in a UCMA endpoint</title>
+      <description>Fixes an issue in which you might unexpectedly receive IMs. This issue occurs when the "Do Not Disturb" presence status is set in a UCMA endpoint.</description>
+      <link>https://support.microsoft.com/help/2565375</link>
+      <pubDate>Sat, 19 Nov 2011 10:02:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
